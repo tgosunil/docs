@@ -1,0 +1,4 @@
+/* disable next & prev button footer */
+.md-footer__inner.md-grid1 {
+    display: none
+}
