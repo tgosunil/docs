@@ -23,6 +23,9 @@ extra_css:
   - stylesheets/extra.css
 
 extra:
+  analytics:
+    provider: google
+    property: G-UA-49547207-1
   social:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/sunilk8
