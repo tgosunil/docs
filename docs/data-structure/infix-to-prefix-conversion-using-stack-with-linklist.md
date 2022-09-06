@@ -1,7 +1,7 @@
 Infix to Prefix conversion using Stack with Linklist
 ====================================================
 
-OCTOBER 16, 2018 ~ ADMIN@EMBEDDEDPROGRAMS.COM
+OCTOBER 16, 2018 ~ SUNIL KUMAR
 
 ``` c
 #include <stdio.h>

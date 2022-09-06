@@ -1,7 +1,7 @@
 Programs for Stack operations
 =============================
 
-OCTOBER 14, 2018 ~ ADMIN@EMBEDDEDPROGRAMS.COM
+OCTOBER 14, 2018 ~ SUNIL KUMAR
 
 ``` c
 #include <stdio.h>

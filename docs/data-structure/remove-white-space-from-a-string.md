@@ -1,7 +1,7 @@
 Program to remove leading space from a string 
 =======================================================
 
-SEPTEMBER 29, 2018 ~ ADMIN@EMBEDDEDPROGRAMS.COM
+SEPTEMBER 29, 2018 ~ SUNIL KUMAR
 
 ``` c
 #include <stdio.h>

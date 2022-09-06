@@ -1,10 +1,7 @@
 Journey of Interrupt
 ====================
 
-[SEPTEMBER 28,
-2018](https://embeddedprograms.wordpress.com/2018/09/28/journey-of-interrupt/)
-\~
-[ADMIN\@EMBEDDEDPROGRAMS.COM](https://embeddedprograms.wordpress.com/author/embeddedprograms/)
+SEPTEMBER 28, 2018 ~ SUNIL KUMAR
 
 In embedded systems, the interrupt is the signal to the processor from
 the hardware device indicating device needs immediate attention. It's
@@ -56,14 +53,12 @@ Interrupt makes processor to deviate from its normal processing and
 asked to serve the interrupt on higher priority. The processors save the
 current context and start its journey to process the interrupt.
 
-![exceptions.png](../media/exceptions.png){width="6.010416666666667in"
-height="3.3125in"}
+![exceptions.png](../media/exceptions.png)
 
 The time taken between device generates an interrupt and acknowledges by
 corresponding interrupt handler is called the ***interrupt latency***.
 
-![interrupt\_latency.png](../media/interrupt_latency.png){width="5.604166666666667in"
-height="2.2291666666666665in"}
+![interrupt\_latency.png](../media/interrupt_latency.png)
 
 Exception vs. Interrupts:
 -------------------------
@@ -93,8 +88,7 @@ from the device.
 
 The hardware design for Interrupt controller is shown below:
 
-![hardware\_irq\_lines.png](../media/hardware_irq_lines.png){width="6.5in"
-height="3.59375in"}
+![hardware\_irq\_lines.png](../media/hardware_irq_lines.png)
 
 During the initialization of the Interrupt controller it will assign the
 interrupt number to each input IRQ line and its priority, the high

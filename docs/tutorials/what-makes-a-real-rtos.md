@@ -1,10 +1,7 @@
 What makes a real RTOS?
 =======================
 
-[SEPTEMBER 28,
-2018](https://embeddedprograms.wordpress.com/2018/09/28/what-makes-a-real-rtos/)
-\~
-[ADMIN\@EMBEDDEDPROGRAMS.COM](https://embeddedprograms.wordpress.com/author/embeddedprograms/)
+SEPTEMBER 28, 2018 ~ SUNIL KUMAR
 
 Definition of RTOS:
 

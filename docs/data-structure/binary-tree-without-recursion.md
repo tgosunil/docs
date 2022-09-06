@@ -1,11 +1,6 @@
 Binary Tree without Recursion
 =============================
 
-[OCTOBER 17,
-2018](https://embeddedprograms.wordpress.com/2018/10/17/c-program-to-create-binary-tree-without-recursion/)
-~
-[ADMIN@EMBEDDEDPROGRAMS.COM](https://embeddedprograms.wordpress.com/author/embeddedprograms/)
-
 ``` c
 #include <stdio.h>
 #include <stdlib.h>

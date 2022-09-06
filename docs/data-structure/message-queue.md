@@ -1,7 +1,7 @@
 Program to implement Message Queue
 ==================================
 
-SEPTEMBER 29, 2018 ~ ADMIN@EMBEDDEDPROGRAMS.COM
+SEPTEMBER 29, 2018 ~ SUNIL KUMAR
 
 ## mq_reader:
 

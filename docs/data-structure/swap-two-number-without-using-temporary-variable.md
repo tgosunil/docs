@@ -1,7 +1,7 @@
 Program to swap two number without using temporary variable
 ===========================================================
 
-SEPTEMBER 29, 2018 ~ ADMIN@EMBEDDEDPROGRAMS.COM
+SEPTEMBER 29, 2018 ~ SUNIL KUMAR
 
 /*
 

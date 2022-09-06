@@ -1,10 +1,7 @@
 Story Of A Boot Loader
 ======================
 
-[SEPTEMBER 28,
-2018](https://embeddedprograms.wordpress.com/2018/09/28/story-of-a-boot-loader/)
-\~
-[ADMIN\@EMBEDDEDPROGRAMS.COM](https://embeddedprograms.wordpress.com/author/embeddedprograms/)
+SEPTEMBER 28, 2018 ~ SUNIL KUMAR
 
 *"A bootstrap is a small strap at the back of a leather boot that
 enables you to pull the entire boot on."*
@@ -101,16 +98,16 @@ function call.
 
 · Enable GCC Optimization.
 
-o -O1 = With this option the resulting executable should be smaller and
+> -O1 = With this option the resulting executable should be smaller and
 faster than with -O0
 
-o -O2 = This option is generally the best choice for deployment of a
+> -O2 = This option is generally the best choice for deployment of a
 program
 
-o -O3 = This option may increase the speed of the resulting executable,
+> -O3 = This option may increase the speed of the resulting executable,
 but can also increase its size
 
-o -Os = This option selects optimizations which reduce the size of an
+> -Os = This option selects optimizations which reduce the size of an
 executable.
 
 Refer the below link for the list and comparison of all the boot-loaders

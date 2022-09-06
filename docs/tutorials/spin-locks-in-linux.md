@@ -1,10 +1,7 @@
 Spin Locks in Linux
 ===================
 
-[SEPTEMBER 28,
-2018](https://embeddedprograms.wordpress.com/2018/09/28/spin-locks-in-linux/)
-\~
-[ADMIN\@EMBEDDEDPROGRAMS.COM](https://embeddedprograms.wordpress.com/author/embeddedprograms/)
+SEPTEMBER 28, 2018 ~ SUNIL KUMAR
 
 A spinlock is a mutual exclusion device that can have only two values:
 "locked" and "unlocked." It is usually implemented as a single bit in an

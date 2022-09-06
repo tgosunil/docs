@@ -1,11 +1,6 @@
 Queue implementation using array
 ================================
 
-[OCTOBER 16,
-2018](https://embeddedprograms.wordpress.com/2018/10/16/queue-implementation-using-array/)
-~
-[ADMIN@EMBEDDEDPROGRAMS.COM](https://embeddedprograms.wordpress.com/author/embeddedprograms/)
-
 ``` c
 #include <stdio.h>
 #include <stdlib.h>

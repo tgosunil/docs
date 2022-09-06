@@ -1,7 +1,7 @@
 Program to draw diamond pattern
 ===============================
 
-SEPTEMBER 29, 2018 ~ ADMIN@EMBEDDEDPROGRAMS.COM
+SEPTEMBER 29, 2018 ~ SUNIL KUMAR 
 
 ``` c
 #include <stdio.h>
