@@ -1,10 +1,9 @@
 site_name: Embedded Programs
-site_url: https://beta.embeddedprograms.com
+site_url: https://www.embeddedprograms.com
 site_description: Embedded Programs
 site_author: Sunil Kumar
 
 theme:
-  #  name: mkdocs
   name: material
   favicon: media/favicon.ico
   logo: media/favicon.ico
@@ -17,7 +16,15 @@ theme:
   features:
     - navigation.instant
     - navigation.tabs
-#    - navigation.sections
+    #- navigation.sections
+    #- navigation.top
+    #- navigation.expand
+    #- navigation.indexes
+    #- toc.integrate 
+    #- navigation.tracking
+  #hide:
+    #- toc
+    #- navigation
 
 extra_css:
   - stylesheets/extra.css
