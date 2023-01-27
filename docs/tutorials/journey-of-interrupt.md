@@ -53,12 +53,12 @@ Interrupt makes processor to deviate from its normal processing and
 asked to serve the interrupt on higher priority. The processors save the
 current context and start its journey to process the interrupt.
 
-![exceptions.png](../media/exceptions.png)
+![exceptions.png](../resources/media/exceptions.png)
 
 The time taken between device generates an interrupt and acknowledges by
 corresponding interrupt handler is called the ***interrupt latency***.
 
-![interrupt\_latency.png](../media/interrupt_latency.png)
+![interrupt\_latency.png](../resources/media/interrupt_latency.png)
 
 Exception vs. Interrupts:
 -------------------------
@@ -88,7 +88,7 @@ from the device.
 
 The hardware design for Interrupt controller is shown below:
 
-![hardware\_irq\_lines.png](../media/hardware_irq_lines.png)
+![hardware\_irq\_lines.png](../resources/media/hardware_irq_lines.png)
 
 During the initialization of the Interrupt controller it will assign the
 interrupt number to each input IRQ line and its priority, the high

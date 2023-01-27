@@ -5,8 +5,8 @@ site_author: Sunil Kumar
 
 theme:
   name: material
-  favicon: media/favicon.ico
-  logo: media/favicon.ico
+  favicon: resources/media/favicon.ico
+  logo: resources/media/favicon.ico
   palette:
     primary: 'teal'
     accent: 'yellow'
@@ -27,12 +27,22 @@ theme:
     #- navigation
 
 extra_css:
-  - stylesheets/extra.css
+  - resources/stylesheets/extra.css
 
 extra_javascript:
-  - stylesheets/ga.js
+  - resources/stylesheets/ga.js
 
 extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/sunilk8
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
   analytics:
     provider: google
     property: UA-49547207-1
@@ -50,18 +60,14 @@ extra:
           note: >-
             Thanks for your feedback! Help us improve this page by
             using our <a href="..." target="_blank" rel="noopener">feedback form</a>.
-  social:
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/sunilk8
-  consent:
-    title: Cookie consent
-    description: >- 
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
+
+# Page tree
+#nav:
+#  - Home: index.md
+#  - About Me:
+#    - profile/profile.md
 
 copyright: >
-  Copyright &copy; 2020 - 2022  Sunil Kumar  –
+  Copyright &copy; 2020 - 2023  Sunil Kumar  –
   <a href="#__consent">Change cookie settings</a>
   generator: false
